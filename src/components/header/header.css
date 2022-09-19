@@ -1,0 +1,14 @@
+.header {
+    display: flex;
+}
+
+.headerList {
+    display: flex;
+    gap: 40px;
+    margin: 50px;
+}
+
+.headerListItem {
+    display: flex;
+    align-items: center; 
+}

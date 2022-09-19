@@ -1,0 +1,21 @@
+.nav {
+    margin-left :50px;
+}
+
+.navList {
+    height: max-content;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    margin-top: 15px;
+}
+
+.name {
+    font-style: bold;
+    font-size: 24px;
+
+}
+
+.navItem {
+    color: gray;
+}
