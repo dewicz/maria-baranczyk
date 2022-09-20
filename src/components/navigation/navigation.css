@@ -1,5 +1,9 @@
 .nav {
-    margin-left :50px;
+    padding-left :50px;
+    padding-right :50px;
+    width: max-content;
+    display: flex;
+    flex-direction: column;
 }
 
 .navList {
@@ -8,14 +12,23 @@
     flex-direction: column;
     gap: 15px;
     margin-top: 15px;
+    
+}
+
+.navList a {
+    color: gray;
+    text-decoration: none;
+}
+
+.navList a:active,
+.navList a.active {
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
 }
 
 .name {
     font-style: bold;
     font-size: 24px;
-
-}
-
-.navItem {
-    color: gray;
+    width: max-content;
 }
