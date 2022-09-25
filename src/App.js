@@ -13,7 +13,7 @@ import Inne from './pages/inne/Inne';
 
 function App() {
   return (
-    <BrowserRouter>
+    <BrowserRouter basename={process.env.PUBLIC_URL}>
       <Routes>
         <Route path="/" element={<Home/>}></Route>
         <Route path="/bio" element={<Bio/>}></Route>
