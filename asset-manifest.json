@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/maria-baranczyk/static/css/main.89f032e7.css",
+    "main.js": "/maria-baranczyk/static/js/main.9fe141f6.js",
+    "static/js/787.66526106.chunk.js": "/maria-baranczyk/static/js/787.66526106.chunk.js",
+    "index.html": "/maria-baranczyk/index.html",
+    "main.89f032e7.css.map": "/maria-baranczyk/static/css/main.89f032e7.css.map",
+    "main.9fe141f6.js.map": "/maria-baranczyk/static/js/main.9fe141f6.js.map",
+    "787.66526106.chunk.js.map": "/maria-baranczyk/static/js/787.66526106.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.89f032e7.css",
+    "static/js/main.9fe141f6.js"
+  ]
+}
