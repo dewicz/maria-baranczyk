@@ -1,0 +1,28 @@
+.grafList {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+}
+
+.grafikaItem {
+    gap:10px;
+    display: flex;
+    justify-content: center;
+}
+
+.grafikaImgItem {
+    width: 60%;
+    height: 100%;
+}
+
+.grafComp {
+    width: 100%;
+}
+
+.grafikaDesc {
+    display: flex;
+    color: gray;
+    padding-left: 20%;
+    padding-bottom: 20px;
+}
